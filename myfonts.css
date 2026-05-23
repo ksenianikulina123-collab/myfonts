@@ -1,0 +1,138 @@
+@font-face {
+    font-family: 'AA Stetica';
+    src: url('https://raw.githubusercontent.com/ksenianikulina123-collab/myfonts/main/AA%20Stetica.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Angst-Normal';
+    src: url('https://raw.githubusercontent.com/ksenianikulina123-collab/myfonts/main/Angst-Normal.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Anticva-Regular';
+    src: url('https://raw.githubusercontent.com/ksenianikulina123-collab/myfonts/main/Anticva-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Boheme Floral';
+    src: url('https://raw.githubusercontent.com/ksenianikulina123-collab/myfonts/main/Boheme%20Floral.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Evolventa-Oblique';
+    src: url('https://raw.githubusercontent.com/ksenianikulina123-collab/myfonts/main/Evolventa-Oblique.woff') format('woff');
+    font-weight: normal;
+    font-style: oblique;
+}
+@font-face {
+    font-family: 'Evolventa-Regular';
+    src: url('https://raw.githubusercontent.com/ksenianikulina123-collab/myfonts/main/Evolventa-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'FirstTimeWriting';
+    src: url('https://raw.githubusercontent.com/ksenianikulina123-collab/myfonts/main/FirstTimeWriting.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Kindentosca';
+    src: url('https://raw.githubusercontent.com/ksenianikulina123-collab/myfonts/main/Kindentosca.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Lady Marmalade';
+    src: url('https://raw.githubusercontent.com/ksenianikulina123-collab/myfonts/main/Lady%20Marmalade%20(1).woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'PinyonScript-Regular';
+    src: url('https://raw.githubusercontent.com/ksenianikulina123-collab/myfonts/main/PinyonScript-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Sloop Script Pro Bold';
+    src: url('https://raw.githubusercontent.com/ksenianikulina123-collab/myfonts/main/Sloop%20Script%20Pro%20Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Sloop Script Pro Medium';
+    src: url('https://raw.githubusercontent.com/ksenianikulina123-collab/myfonts/main/Sloop%20Script%20Pro%20Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Sloop Script Pro';
+    src: url('https://raw.githubusercontent.com/ksenianikulina123-collab/myfonts/main/Sloop%20Script%20Pro.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'TeXGyreAdventor-Italic';
+    src: url('https://raw.githubusercontent.com/ksenianikulina123-collab/myfonts/main/TeXGyreAdventor-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Vasek Italic_0';
+    src: url('https://raw.githubusercontent.com/ksenianikulina123-collab/myfonts/main/Vasek%20Italic_0.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'birchctt';
+    src: url('https://raw.githubusercontent.com/ksenianikulina123-collab/myfonts/main/birchctt.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'denistina_en';
+    src: url('https://raw.githubusercontent.com/ksenianikulina123-collab/myfonts/main/denistina_en.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'geometria_light';
+    src: url('https://raw.githubusercontent.com/ksenianikulina123-collab/myfonts/main/geometria_light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'geometria_lightitalic';
+    src: url('https://raw.githubusercontent.com/ksenianikulina123-collab/myfonts/main/geometria_lightitalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'moiamova-1';
+    src: url('https://raw.githubusercontent.com/ksenianikulina123-collab/myfonts/main/moiamova-1.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'moiamova-2';
+    src: url('https://raw.githubusercontent.com/ksenianikulina123-collab/myfonts/main/moiamova-2.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'moiamova-3';
+    src: url('https://raw.githubusercontent.com/ksenianikulina123-collab/myfonts/main/moiamova-3.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'moiamova-4';
+    src: url('https://raw.githubusercontent.com/ksenianikulina123-collab/myfonts/main/moiamova-4.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
